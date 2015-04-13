@@ -1,0 +1,4 @@
+#ingore files in dir ignore
+ignore/
+*.tmp
+
